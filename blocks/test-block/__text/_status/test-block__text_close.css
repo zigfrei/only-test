@@ -1,0 +1,7 @@
+.test-block__text_close {
+  display: flex;
+}
+
+.test-block__button_active .test-block__text_close {
+  display: none;
+}

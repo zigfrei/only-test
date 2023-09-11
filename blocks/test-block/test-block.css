@@ -1,0 +1,9 @@
+.test-block {
+  width: 1920px;
+  height: 1080px;
+  background: url(../../images/carnaby-82KWr7KHwDg-unsplash\ 2.jpg)
+    rgba(2, 15, 32, 0.4);
+  background-size: cover;
+  background-blend-mode: multiply;
+  position: relative;
+}

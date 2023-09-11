@@ -1,0 +1,21 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/test-block/test-block.css);
+@import url(../blocks/test-block/__button/test-block__button.css);
+@import url(../blocks/test-block/__button/_color/test-block__button_blue.css);
+@import url(../blocks/test-block/__button/_color/test-block__button_green.css);
+@import url(../blocks/test-block/__button/_status/test-block__button_active.css);
+
+@import url(../blocks/test-block/__button/_place/test-block__button_parking.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_stadium.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_bridge.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_panel.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_first-line.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_police.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_station.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_hostel.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_office.css);
+@import url(../blocks/test-block/__button/_place/test-block__button_building.css);
+
+@import url(../blocks/test-block/__text/test-block__text.css);
+@import url(../blocks/test-block/__text/_status/test-block__text_close.css);
+@import url(../blocks/test-block/__text/_status/test-block__text_open.css);

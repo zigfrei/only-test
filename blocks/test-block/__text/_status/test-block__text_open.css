@@ -1,0 +1,9 @@
+.test-block__text_open {
+  display: none;
+}
+
+.test-block__button_active .test-block__text_open {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}

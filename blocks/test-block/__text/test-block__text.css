@@ -1,0 +1,21 @@
+.test-block__text {
+  all: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 16px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  padding: 0;
+}
+
+.test-block__name {
+  all: unset;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+}

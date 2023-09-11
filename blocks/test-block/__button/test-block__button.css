@@ -1,0 +1,9 @@
+.test-block__button {
+  all: unset;
+  height: 40px;
+  width: 40px;
+  opacity: 0.7;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: width ease-in-out .5s;
+}
